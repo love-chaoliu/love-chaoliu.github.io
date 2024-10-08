@@ -1,4 +1,2 @@
 # love-chaoliu.github.io
-
-Personal Web pages
-love chaoliu forever
+<a href="{{ site.baseurl }}/about/">About</a>
